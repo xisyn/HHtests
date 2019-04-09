@@ -56,9 +56,6 @@ local.properties
 *.mar
 *.aar
 RemoteSystemsTempFiles/**
-/Kindergarten/*.classpath
-dou2/.README.md.html
-nb-configuration.xml
 
 # Eclipse
 .classpath
@@ -75,3 +72,7 @@ nb-configuration.xml
 log/
 target/
 .idea/workspace.xml
+
+# Selenide
+confing.properties
+build/reports/tests
