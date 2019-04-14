@@ -74,5 +74,5 @@ target/
 .idea/workspace.xml
 
 # Selenide
-confing.properties
 build/reports/tests
+config.propeties
